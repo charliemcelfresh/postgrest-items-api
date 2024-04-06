@@ -1,0 +1,8 @@
+db-anon-role = "web_anon"
+db-max-rows = 1000
+db-pool = 10
+db-schemas = "public"
+db-uri = <YOUR POSTGRES URI>
+log-level = "info"
+server-port = 3002
+
